@@ -67,7 +67,7 @@ a:hover {
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
-  font-size: 0.9em;
+  /* font-size: 0.9em; */
 }
 
 .badge-web {
